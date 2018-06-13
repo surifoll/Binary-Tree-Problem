@@ -1,0 +1,7 @@
+C:\Users\Suraj\Source\Assignment\New folder\AStarAlgorithm_PathFinding\AStarAlgorithm\obj\Debug\A_CSC831StarAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Suraj\Source\Assignment\New folder\AStarAlgorithm_PathFinding\AStarAlgorithm\obj\Debug\A_CSC831StarAlgorithm.Form1.resources
+C:\Users\Suraj\Source\Assignment\New folder\AStarAlgorithm_PathFinding\AStarAlgorithm\obj\Debug\AStarAlgorithm.Properties.Resources.resources
+C:\Users\Suraj\Source\Assignment\New folder\AStarAlgorithm_PathFinding\AStarAlgorithm\obj\Debug\A_CSC831StarAlgorithm.csproj.GenerateResource.cache
+C:\Users\Suraj\Source\Assignment\New folder\AStarAlgorithm_PathFinding\AStarAlgorithm\obj\Debug\A_CSC831StarAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Source\Assignment\New folder\AStarAlgorithm_PathFinding\AStarAlgorithm\obj\Debug\AStarAlgorithm.exe
+C:\Users\Suraj\Source\Assignment\New folder\AStarAlgorithm_PathFinding\AStarAlgorithm\obj\Debug\AStarAlgorithm.pdb
